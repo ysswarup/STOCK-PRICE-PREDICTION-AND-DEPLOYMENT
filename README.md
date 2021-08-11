@@ -1,16 +1,16 @@
 # TITLE : Predicting Stock Prices for Large Cap Technology Companies
 
-# DATASETS USED
+## DATASETS USED
 
 -  Nasdaq:  https://www.nasdaq.com/
 -  Xignite: https://www.xignite.com/
 
 
 ## OVERVIEW:
-             Data Segmentation and Data Cleaning 
-             Exploratory Data Analysis 
-             Training the model based on the data available
-             Model Deployment Using Streamlit and Heroku
+             Data Segmentation and Data Cleaning 
+             Exploratory Data Analysis 
+             Training the model based on the data available
+             Model Deployment Using Streamlit and Heroku
 
 ## DATASETS:
           The dataset consists of 9 years’ worth of stock price data for 20 large-cap-technology 
@@ -39,13 +39,13 @@ There are different ways to preprocess the text. Here are some of the approaches
 
 ## TRAINING AND TESTING THE MODEL: 
 The following models are trained and tested for this Project Models are: 
-• Linear Regression 
-• LSTM Neural network
+            • Linear Regression 
+            • LSTM Neural network
 
 Table : Model Fitting :Finding the best algorithm
-Accuracy Linear Regression 
-Accuracy 99.822 93.338
-we used linear regression model for the deployment.
+            Accuracy Linear Regression 
+            Accuracy 99.822 93.338
+            we used linear regression model for the deployment.
 
 
 ## DEPLOYMENT: 
@@ -53,11 +53,11 @@ The project deployment is done using “Streamlit and Heroku”. Streamlit is an
 framework to deploy machine learning apps built using Python. It is an opensource framework which is similar to the Shiny package in R. Heroku is a 
 platform-as-a-service (PaaS) that enables deployment and managing applications 
 built in several programming languages in the cloud.
- Steps to deploy 
+ Steps to deploy 
 Step 1: Run your Streamlit App Locally
 Step 2: Create a GitHub repository
 Step 3: Create a requirements.txt, setup.sh, and Procfile.
 Step 3: Connect to Heroku
 
 Check the link for the deployed Application:
-o https://apple-stock-price-predictor.herokuapp.com/
+            o https://apple-stock-price-predictor.herokuapp.com/
