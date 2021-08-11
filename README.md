@@ -49,7 +49,7 @@ Table : Model Fitting :Finding the best algorithm
 
 ## DEPLOYMENT: 
 The project deployment is done using “Streamlit and Heroku”. Streamlit is an app 
-framework to deploy machine learning apps built using Python. It is an opensource framework which is similar to the Shiny package in R. Heroku is a 
+framework to deploy machine learning apps built using Python. It is an open source framework which is similar to the Shiny package in R. Heroku is a 
 platform-as-a-service (PaaS) that enables deployment and managing applications 
 built in several programming languages in the cloud.
  Steps to deploy 
@@ -59,4 +59,6 @@ Step 3: Create a requirements.txt, setup.sh, and Procfile.
 Step 3: Connect to Heroku
 
 Check the link for the deployed Application:
+            
+            
             o https://apple-stock-price-predictor.herokuapp.com/
