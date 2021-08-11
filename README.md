@@ -38,6 +38,7 @@ There are different ways to preprocess the text. Here are some of the approaches
 
 ## TRAINING AND TESTING THE MODEL: 
 The following models are trained and tested for this Project Models are: 
+            
             • Linear Regression 
             • LSTM Neural network
 
