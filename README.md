@@ -13,9 +13,8 @@
              Model Deployment Using Streamlit and Heroku
 
 ## DATASETS:
-          The dataset consists of 9 years’ worth of stock price data for 20 large-cap-technology 
-companies and the NASDAQ-100 Technology Sector Index dating from 11/14/2012 to 
-11/14/2021. And other dataset consists of headlines of different companies from 01/01/2015 to 
+  The dataset consists of 9 years’ worth of stock price data for 20 large-cap-technology 
+companies and the NASDAQ-100 Technology Sector Index dating from 11/14/2012 to 11/14/2021. And other dataset consists of headlines of different companies from 01/01/2015 to 
 06/23/2021.
 
 SL.NO	     ATTRIBUTES	          DESCRIPTION
