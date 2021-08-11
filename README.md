@@ -43,6 +43,7 @@ The following models are trained and tested for this Project Models are:
             • LSTM Neural network
 
 Table : Model Fitting :Finding the best algorithm
+            
             Accuracy Linear Regression 
             Accuracy 99.822 93.338
             we used linear regression model for the deployment.
